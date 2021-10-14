@@ -1,7 +1,7 @@
 ### An na young  👋
 
-- 덕성여자대학교 재학중 :school:
-- 27th sopt android part :computer:
+- 덕성여자대학교 입학 :school:
+- Android Developer 준비 중 :computer:
 
 <!--
 **ny2060/ny2060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
