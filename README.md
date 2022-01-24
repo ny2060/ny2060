@@ -1,6 +1,6 @@
 ### An na young  👋
 
-- 덕성여자대학교 입학 :school:
+- Duksung Universitiy 입학 :school:
 - Android Developer 준비 중 :computer:
 
 <!--
