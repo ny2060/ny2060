@@ -14,11 +14,11 @@
 
 ## project 🏅
 
-- [칭찬할 고래](https://www.notion.so/click-4ec45821d4034702aad9738094eb8f45)
-- [체리쉬](https://www.notion.so/Cherish-click-4de55551d5ee46489271d78e484c37b7)
-- [제로빈](https://www.notion.so/Zerobin-click-ecad6d38dbfc4a8fb25b1cc2b793e53f)
-- [키핀](https://www.notion.so/Keepin-click-6e058ea8c74e49ba867ee6878b36ea1f)
-- [해빗](https://www.notion.so/Havit-click-39fa9803bc6842bd87d071c2120e72dc)
+- [칭찬할 고래](https://quickest-snap-0bc.notion.site/click-4ec45821d4034702aad9738094eb8f45)
+- [체리쉬](https://quickest-snap-0bc.notion.site/Cherish-click-4de55551d5ee46489271d78e484c37b7)
+- [제로빈](https://quickest-snap-0bc.notion.site/Zerobin-click-ecad6d38dbfc4a8fb25b1cc2b793e53f)
+- [키핀](https://quickest-snap-0bc.notion.site/Keepin-click-6e058ea8c74e49ba867ee6878b36ea1f)
+- [해빗](https://quickest-snap-0bc.notion.site/Havit-click-39fa9803bc6842bd87d071c2120e72dc)
 
 
 ## portfolio 💎
